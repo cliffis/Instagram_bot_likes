@@ -1,2 +1,2 @@
-username_ins = 'uc_cliffis'
-password_ins = 'gbdrj3R6!@#'
+username_ins = 'user'
+password_ins = 'pass'
